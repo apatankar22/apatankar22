@@ -1,6 +1,7 @@
 # Amogh Patankar (he/him)
-## ML Research Engineer @ Hedra
+## [ML] Research Engineer @ Meta
 📓 MS CS @ UCSD, BS Data Science @ UCSD <br/>
+* ML Research Eng @Hedra
 * LLM Inference Intern @AMD
 * GenAI Intern @Marvell Tech
 * Researcher @Stanford University School of Medicine
